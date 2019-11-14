@@ -1,0 +1,8 @@
+[book]
+authors = ["otswang"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Thinking On Java"
+
+[output.epub]
